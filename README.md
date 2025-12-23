@@ -118,7 +118,3 @@ Improve UI design
 
 Add multilingual support
 
-
-This project is licensed under the MIT License.
-
-✅ Tip for GitHub Upload
